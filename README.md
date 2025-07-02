@@ -46,7 +46,7 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/automacao-robot-ecommerce.git](https://github.com/SEU_USUARIO/automacao-robot-ecommerce.git)
+    git clone https://github.com/ItaloVasconcelos05/Automacao-de-Fluxo-de-Compras-em-E-commerce.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
