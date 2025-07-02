@@ -4,7 +4,7 @@ Este é um projeto de portfólio que demonstra a automação de testes de ponta 
 
 A arquitetura do projeto é baseada no padrão **Page Object Model (POM)** para garantir uma estrutura de código limpa, reutilizável e de fácil manutenção.
 
-### Página: http://automationpractice.com/
+### Página: https://www.inmotionhosting.com/
 
 ## ✨ Funcionalidades Automatizadas
 
